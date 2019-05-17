@@ -51,8 +51,3 @@
  Cluster Name    vault-cluster-22f354c5
  Cluster ID      32ec4823-5b00-09b4-a148-b34d55fa2642
  HA Enabled      false
-
- D:\Harshad\Sowftware\vault_1.1.2_windows_amd64>
-
-
-
